@@ -1,0 +1,7 @@
+{
+  "name": "SyllabusPlan - Anti-Anxiety Academic Study Planner",
+  "description": "Turn your syllabus into a personalized daily study plan and weekly roadmap so you always know what to study next.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
